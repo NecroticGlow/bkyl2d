@@ -34,11 +34,11 @@ if (screen.width >= 1) {
 		initWidget({
 			waifuPath: live2d_path + "waifu-tips.json",
 			// apiPath: "https://live2d.fghrsh.net/api/",
-	         	cdnPath: "https://ghproxy.net/https://fastly.jsdelivr.net/gh/NecroticGlow/live2d_api/"
+	         	// cdnPath: "https://ghproxy.net/https://fastly.jsdelivr.net/gh/NecroticGlow/live2d_api/"
 			// cdnPath: "https://live2d-api.vercel.app/"
 			//apiPath: "https://api3.fghrsh.net/live2d/"
 			// cdnPath: "https://gitee.com/ajream/live2d_api/raw/master/"
-			//cdnPath: "https://cdn.staticaly.io/gh/NecroticGlow/live2d_api/master/"
+			cdnPath: "https://ghproxy.net/https://raw.githubusercontent.com/NecroGlow/live2d_api/master/"
 		});
 	});
 }
