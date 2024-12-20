@@ -38,7 +38,7 @@ if (screen.width >= 1) {
 			// cdnPath: "https://live2d-api.vercel.app/"
 			//apiPath: "https://api3.fghrsh.net/live2d/"
 			// cdnPath: "https://gitee.com/ajream/live2d_api/raw/master/"
-			cdnPath: "https://ghp.ci/https://raw.githubusercontent.com/NecroticGlow/live2d_api/master/"
+			cdnPath: "https://ghproxy.com/https://raw.githubusercontent.com/NecroticGlow/live2d_api/master/"
 		});
 	});
 }
